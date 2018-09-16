@@ -10,8 +10,5 @@
         <module name="Udemy" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Udemy" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
