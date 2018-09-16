@@ -12,7 +12,7 @@ public class CommonAPI {
 @BeforeMethod
 public void setUP() {
 
-    System.setProperty("webdriver.gecko.driver", "lib/geckodriver 2");
+    System.setProperty("webdriver.gecko.driver", "/Users/junedalam/Documents/framework1/Generic/Drivers/geckodriver 2");
     driver = new FirefoxDriver();
     String baseURL = "http://www.udemy.com";
     driver.manage().window().maximize();
